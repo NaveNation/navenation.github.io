@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Quinn Williams is a biochemistry student at Cal Poly. He graduated from San Luis Obispo High School in 2020. Chemistry is cool
