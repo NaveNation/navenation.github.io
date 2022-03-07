@@ -7,6 +7,7 @@ permalink: /Work/
 ##### Education
 
 2nd year Biochemistry Major at Cal Poly San Luis Obispo
+
 Course work includes Organic Chemistry, Physics, Calculus, and General Chemistry
 
 ##### Work Experience
