@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Quinn is a Central Coast native and has lived in San Luis Obispo his whole life. He enjoys going to the beach, hiking, camping, reading and taking his jeep out trailing. He has a dog, Jezebel, a cat, Jellybean, and a snake, Sunset. His favorite place to eat is High street Deli, and enjoys going there with his friends.
 
-### More Information
+#### Contact me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[qewillia@calpoly.edu](mailto:qewillia@calpoly.edu)
